@@ -4,3 +4,6 @@ def try_me(num, num_1):
         return "REASON FOR EXCLUSION"
 
     return num + num_1
+
+if __name__ == "__main__":
+    try_me(2, 2)
