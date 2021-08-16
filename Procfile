@@ -1,1 +1,1 @@
-web: pip install . -U && my_br_package-run
+web: pip install . -U && mybrpackage-run
